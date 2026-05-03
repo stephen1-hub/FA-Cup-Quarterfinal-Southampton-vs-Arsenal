@@ -45,6 +45,8 @@ Shot Analysis
 Arsenal’s attacking pattern: Predominantly assisted attacks and set-piece delivery; concentrated in central and left-flank zones
 Southampton’s attacking pattern: Opportunistic and quick transitions; focused on fewer but higher quality chances
 Shot distances: Arsenal: 15–25m range; Southampton: 17–21m range
+<img width="837" height="570" alt="image" src="https://github.com/user-attachments/assets/892b1c08-cdf8-4689-b197-d8d050cd4738" />
+
 # Tactical Implications
 Arsenal created many chances but lacked finishing efficiency; predictable attacking zones made it easier for Southampton to block and save shots
 Southampton’s compact defensive shape and counter-attacking strategy maximized goal conversion despite fewer shots
